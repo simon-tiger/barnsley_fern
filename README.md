@@ -1,9 +1,9 @@
-# barnsley_fern
+# Barnsley fern
 **Note:** a couple of small pieces of text in the README are from [wikipedia](https://en.wikipedia.org/wiki/Barnsley_fern).
 
 Barnsley's fern is a procedural but quite predictable fern.
 
-# The algorithm
+## The algorithm
 You start with a dot. Then you randomly apply a transformation to that dot. You have a bunch of options:
 
 For the stem:
